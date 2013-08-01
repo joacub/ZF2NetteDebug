@@ -1,5 +1,5 @@
 {
-    "name": "webino/zf2nette-debug",
+    "name": "joacub/zf2nette-debug",
     "description": "User friendly Exception and Error handler ported from Nette Framework.",
     "type": "library",
     "keywords": ["debug","debugger", "zf2"],
